@@ -1,0 +1,1 @@
+# Dental-Image-Classification-CNN-nad-ResNet50
