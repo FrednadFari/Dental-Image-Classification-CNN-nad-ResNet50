@@ -45,7 +45,3 @@ Designed with **orientation safety**, **class imbalance handling**, and **explai
 
 ---
 
-## 🚀 Quickstart (Colab)
-1. Clone repo & open in Colab:
-```bash
-git clone https://github.com/YOUR_USERNAME/dental-image-classification.git
